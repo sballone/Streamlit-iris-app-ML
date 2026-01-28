@@ -29,7 +29,7 @@ st.set_page_config(
 )
 
 # Titre principal
-st.title("🌸 Tableau de Bord Complet - Dataset Iris avec ML")
+st.title("🎯 Tableau de Bord Complet - Dataset Iris avec ML")
 st.markdown("---")
 
 # Chargement des données
